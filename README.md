@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kush-t484/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kush-t484/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kush-t484/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Kush-t484/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0704-binary-search](https://github.com/Kush-t484/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -41,5 +42,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Kush-t484/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Kush-t484/Leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
