@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Kush-t484/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Kush-t484/Leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
