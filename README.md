@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Kush-t484/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Kush-t484/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kush-t484/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Kush-t484/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kush-t484/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kush-t484/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Kush-t484/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kush-t484/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Kush-t484/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +57,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kush-t484/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Kush-t484/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
