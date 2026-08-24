@@ -8,11 +8,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Kush-t484/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/Kush-t484/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Kush-t484/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Kush-t484/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Kush-t484/Leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Kush-t484/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Kush-t484/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kush-t484/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kush-t484/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/Kush-t484/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +80,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Kush-t484/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Kush-t484/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 <!---LeetCode Topics End-->
