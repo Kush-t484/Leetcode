@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Kush-t484/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0125-valid-palindrome](https://github.com/Kush-t484/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/Kush-t484/Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Kush-t484/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +89,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Kush-t484/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Kush-t484/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Kush-t484/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 <!---LeetCode Topics End-->
