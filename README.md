@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/Kush-t484/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/Kush-t484/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kush-t484/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Kush-t484/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kush-t484/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Kush-t484/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kush-t484/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Kush-t484/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Kush-t484/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/Kush-t484/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kush-t484/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/Kush-t484/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,4 +109,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0567-permutation-in-string](https://github.com/Kush-t484/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Kush-t484/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1004-max-consecutive-ones-iii](https://github.com/Kush-t484/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
