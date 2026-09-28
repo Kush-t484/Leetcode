@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Kush-t484/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0044-wildcard-matching](https://github.com/Kush-t484/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Kush-t484/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Kush-t484/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Kush-t484/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Kush-t484/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kush-t484/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Kush-t484/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0044-wildcard-matching](https://github.com/Kush-t484/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Kush-t484/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Kush-t484/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Kush-t484/Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0044-wildcard-matching](https://github.com/Kush-t484/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 <!---LeetCode Topics End-->
