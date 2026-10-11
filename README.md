@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Kush-t484/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/Kush-t484/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kush-t484/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0046-permutations](https://github.com/Kush-t484/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/Kush-t484/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Kush-t484/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Kush-t484/Leetcode/tree/main/0078-subsets/) | Medium |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Kush-t484/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Kush-t484/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Kush-t484/Leetcode/tree/main/0078-subsets/) | Medium |
 ## Algorithm X
