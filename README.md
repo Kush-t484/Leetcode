@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Kush-t484/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0020-valid-parentheses](https://github.com/Kush-t484/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0044-wildcard-matching](https://github.com/Kush-t484/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/Kush-t484/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Kush-t484/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Kush-t484/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Kush-t484/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -169,4 +171,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0203-remove-linked-list-elements](https://github.com/Kush-t484/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Kush-t484/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Kush-t484/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Kush-t484/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
